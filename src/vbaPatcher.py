@@ -14,4 +14,6 @@ write2addr = 'wx 445078 @ ' + seek_addr
 r2.cmd(write2addr)
 printaddr = 'px 50 @ ' + seek_addr
 print r2.cmd(printaddr)
+
+print "\n[+] File %s patched successfully!\n"%(sys.argv[1])
 r2.quit()
