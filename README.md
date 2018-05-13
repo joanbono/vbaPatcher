@@ -19,7 +19,7 @@ cd vbaPatcher/src
 python vbaPatcher.py vbaProject.bin
 ~~~
 
-![](img/vbaPatcher_001.png)
+![](img/vbaPatcher.png)
 
 ***
 
